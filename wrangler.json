@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "restless-glade-b0c8",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "77b81b72-cea5-414b-899e-af3d6d4c39d7",
+      "database_name": "restless-glade-b0c8-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
